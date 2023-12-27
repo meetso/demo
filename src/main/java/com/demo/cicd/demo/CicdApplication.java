@@ -10,4 +10,5 @@ public class CicdApplication {
 		SpringApplication.run(CicdApplication.class, args);
 	}
 
+
 }
